@@ -1,0 +1,7 @@
+﻿api.txt
+.env
+*.env
+__pycache__/
+*.pyc
+artifacts/faiss_index/
+

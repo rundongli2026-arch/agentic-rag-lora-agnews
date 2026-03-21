@@ -1,0 +1,6 @@
+{
+  "base_model_id": "sshleifer/tiny-gpt2",
+  "train_pairs": 800,
+  "val_pairs": 120,
+  "max_steps": 40
+}
