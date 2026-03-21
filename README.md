@@ -28,6 +28,9 @@ This project implements the stitching requirements:
    ```powershell
    $env:OPENAI_API_KEY="your_openai_api_key"
    ```
+3. Data source:
+   - This project uses the Hugging Face `ag_news` dataset, downloaded automatically by the scripts via `datasets.load_dataset("ag_news")`.
+   - Dataset page: https://huggingface.co/datasets/ag_news
 
 ## Full Run Flow
 ### Option A: One-command pipeline
