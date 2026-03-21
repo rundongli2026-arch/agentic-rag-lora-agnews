@@ -63,8 +63,3 @@ python run_full_pipeline.py
 - `outputs/comparison_outputs.csv`
 - `outputs/sample_outputs.md`
 - `outputs/agent_graph.mmd`
-
-## Submission Notes
-- Do not upload API keys.
-- Do not upload datasets.
-- Include generated report files plus source code and run instructions.
